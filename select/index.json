@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Moon",
+  "base_artist": "Perfume",
+  "createdAt": "2026-02-24T14:15:31.303030Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Temple of the Moon - World of Warcraft",
+      "artist": "Erutan",
+      "has_synced": true,
+      "path": "select/01_Temple_of_the_Moon_-_World_of_Warcraft_Erutan.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Bad Moon Rising",
+      "artist": "Creedence Clearwater Revival",
+      "has_synced": true,
+      "path": "select/02_Bad_Moon_Rising_Creedence_Clearwater_Revival.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Harvest Moon",
+      "artist": "Neil Young",
+      "has_synced": true,
+      "path": "select/03_Harvest_Moon_Neil_Young.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Blue Moon of Kentucky",
+      "artist": "Bill Monroe & His Blue Grass Boys",
+      "has_synced": true,
+      "path": "select/04_Blue_Moon_of_Kentucky_Bill_Monroe_&_His_Blue_Grass_Boys.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Blue Moon With Heartache",
+      "artist": "Rosanne Cash",
+      "has_synced": false,
+      "path": "select/05_Blue_Moon_With_Heartache_Rosanne_Cash.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Blue Moon With Heartache (Album Version)",
+      "artist": "Rosanne Cash",
+      "has_synced": false,
+      "path": "select/06_Blue_Moon_With_Heartache_(Album_Version)_Rosanne_Cash.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Blue Moon of Kentucky (Album Version)",
+      "artist": "Bill Monroe & His Blue Grass Boys",
+      "has_synced": true,
+      "path": "select/07_Blue_Moon_of_Kentucky_(Album_Version)_Bill_Monroe_&_His_Blue_Grass_Boys.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Buicks to the Moon",
+      "artist": "Alan Jackson",
+      "has_synced": true,
+      "path": "select/08_Buicks_to_the_Moon_Alan_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Cajun Moon",
+      "artist": "Ricky Skaggs",
+      "has_synced": false,
+      "path": "select/09_Cajun_Moon_Ricky_Skaggs.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Cajun Moon (Album Version)",
+      "artist": "Ricky Skaggs",
+      "has_synced": false,
+      "path": "select/10_Cajun_Moon_(Album_Version)_Ricky_Skaggs.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Does That Blue Moon Ever Shine On You",
+      "artist": "Toby Keith",
+      "has_synced": true,
+      "path": "select/11_Does_That_Blue_Moon_Ever_Shine_On_You_Toby_Keith.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Does That Blue Moon Ever Shine On You (Album Version)",
+      "artist": "Toby Keith",
+      "has_synced": true,
+      "path": "select/12_Does_That_Blue_Moon_Ever_Shine_On_You_(Album_Version)_Toby_Keith.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Even the Man in the Moon Is Crying",
+      "artist": "Mark Collie",
+      "has_synced": false,
+      "path": "select/13_Even_the_Man_in_the_Moon_Is_Crying_Mark_Collie.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Even The Man In The Moon Is Crying",
+      "artist": "Mark Collie",
+      "has_synced": true,
+      "path": "select/14_Even_The_Man_In_The_Moon_Is_Crying_Mark_Collie.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Footprints on the Moon",
+      "artist": "Gabby Barrett",
+      "has_synced": true,
+      "path": "select/15_Footprints_on_the_Moon_Gabby_Barrett.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Honky Tonk Moon",
+      "artist": "Randy Travis",
+      "has_synced": true,
+      "path": "select/16_Honky_Tonk_Moon_Randy_Travis.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Moon",
+      "artist": "Perfume",
+      "has_synced": false,
+      "path": "select/pl_01_Moon_Perfume.txt"
+    }
+  ]
+}
